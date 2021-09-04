@@ -1,0 +1,14 @@
+#header{
+    background-color: lightsalmon;
+    width: max-content;
+    height: 80px;
+}
+
+#footer{
+    background-color: black;
+    float: bottom;
+    color: white;
+    display: block;
+    align-items: center;
+    height: 40px;
+}
